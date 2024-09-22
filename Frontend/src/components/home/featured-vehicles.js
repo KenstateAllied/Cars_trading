@@ -94,7 +94,7 @@ const FeaturedVehicles = () => {
           spacing={{ base: 10, md: 4, lg: 10 }}
         >
           <CarCard image="front5.webp" carName="Dacia Dokker" model="2016" />
-          <CarCard image="front2.webp" carName="Dacia Duster" model="2021" />
+          <CarCard image="nd_kiptoo_70.jpg" carName="Dacia Duster" model="2021" />
           <CarCard image="front1.webp" carName="Renault Clio" model="2019" />
         </Stack>
       </Container>
